@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **C, C++, Python**
 
-- 📫 How to reach me **00waliul00@gmail.com**
+- 📫 How to reach me: **00waliul00@gmail.com**
 
 - ⚡ Fun fact: **I am a gamer**.
 

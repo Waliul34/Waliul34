@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **00waliul00@gmail.com**
 
-- ⚡ Fun fact: **I am a gamer**.
+- ⚡ I like to waste my time **playing video games and watching films and tv series**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

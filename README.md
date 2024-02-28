@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **C, C++, Python**
 
-- 📫 How to reach me: **00waliul00@gmail.com**
+- 📫 How to reach me: **waliul.is34@gmail.com**
 
 - ⚡ I like to spend my leisure time **playing video games and watching films and tv series**.
 

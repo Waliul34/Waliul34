@@ -3,15 +3,11 @@
 
 <img align ="right" width="400" alt="Coding" src="https://www.dna.caltech.edu/SupplementaryMaterial/Algorithmic_SST/Artwork/nanoscale-programming-animation-Olivier-Wyart.gif">
 
-- 🔭 I’m currently working on **my academic thesis**.
-
-- 🌱 I’m currently learning about different **Machine learning and Deep learning approaches**.
-
 - 💬 Ask me about **C, C++, Python**
 
 - 📫 How to reach me: **00waliul00@gmail.com**
 
-- ⚡ I like to waste my time **playing video games and watching films and tv series**.
+- ⚡ I like to spend my leisure time **playing video games and watching films and tv series**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
